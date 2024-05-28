@@ -28,7 +28,7 @@ This project uses many tools like:
 Create the project.
 
 ```bash
-npx degit FansTech/reactjs-vite-tailwindcss-animation my-app
+npx degit naxida-eth/reactjs-vite-tailwindcss-animation my-app
 ```
 
 Access the project directory.
